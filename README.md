@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, i'm Affan (cokecaine)!
+
+## about me
+
+- IT student passionate about **Tech and Innovation**
+- Learning **web development & DevOps**
+- Hobbies : **Exploring, gaming**
