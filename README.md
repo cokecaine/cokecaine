@@ -1,24 +1,15 @@
-## Hi there 👋
+# Hello, I'm Affan (Cokecaine) 👋
 
-<!--
-**cokecaine/cokecaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A few words about who I am and what I'm passionate about. I love to explore and enjoy gaming.
 
-Here are some ideas to get you started:
+Based in Surakarta.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- 📧 Email: affanilham97@gmail.com(mailto:affanilham97@gmail.com)
+- 🔗 LinkedIn: Affan Ilham Arsyila(https://linkedin.com/in/affanilhamarsyila)
+- 📸 Instagram: [@affanilhama](https://instagram.com/affanilhama)
 
-# Hi, i'm Affan (cokecaine)!
+---
 
-## about me
-
-- IT student passionate about **Tech and Innovation**
-- Learning **web development & DevOps**
-- Hobbies : **Exploring, gaming**
+⭐️ From [YourGitHubUsername](https://github.com/cokecaine)
