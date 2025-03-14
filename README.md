@@ -6,10 +6,10 @@ A few words about who I am and what I'm passionate about. I love to explore and 
 Based in Surakarta.
 
 ## Connect With Me
-- 📧 Email: affanilham97@gmail.com(mailto:affanilham97@gmail.com)
-- 🔗 LinkedIn: Affan Ilham Arsyila(https://linkedin.com/in/affanilhamarsyila)
+- 📧 Email: [affanilham97@gmail.com](mailto:affanilham97@gmail.com)
+- 🔗 LinkedIn: [Affan Ilham Arsyila](https://linkedin.com/in/affanilhamarsyila)
 - 📸 Instagram: [@affanilhama](https://instagram.com/affanilhama)
 
 ---
 
-⭐️ From [YourGitHubUsername](https://github.com/cokecaine)
+⭐️ From [Cokecaine](https://github.com/cokecaine)
